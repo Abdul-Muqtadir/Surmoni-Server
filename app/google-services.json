@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615434087536",
+    "firebase_url": "https://surmoni-429a3.firebaseio.com",
+    "project_id": "surmoni-429a3",
+    "storage_bucket": "surmoni-429a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615434087536:android:543ba8fa98d1ec4c",
+        "android_client_info": {
+          "package_name": "com.surmoni.surmoniserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615434087536-14ett2c528lij43ekvj0c35dgd5qb902.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surmoniserver",
+            "certificate_hash": "05dd92784aaede18de5cd5dc0a906f1fde538121"
+          }
+        },
+        {
+          "client_id": "615434087536-s1p294u1hbiim9e43oboh6jjtj0ge9re.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Nv-xagzy23J3PLylpg6vfnyu3VqMobI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615434087536-s1p294u1hbiim9e43oboh6jjtj0ge9re.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
